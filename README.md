@@ -1,5 +1,5 @@
 # Concepts-of-Data-Science-project
-Project for the course Concepts of Data Science. By Maarten Van Bockstaele &amp; Alexander Deleeck
+Project for the course Concepts of Data Science. By Maarten Van Bockstaele (2262607) &amp; Alexander Deleeck (2263131)
 
 
 This project was made for the course Concepts of Data Science of the Master of Statistics and Data Science by UHasselt.
